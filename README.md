@@ -56,7 +56,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/guraja-santosh-mrunal-rao/)  
-[![Email](mailto:sguraja2023@fau.edu) || (mailto:gsantoshrao23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/guraja-santosh-mrunal-rao/)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:sguraja2023@fau.edu) || (mailto:gsantoshrao23@gmail.com)
 
 Let's collaborate and build something amazing! 🚀
