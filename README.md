@@ -74,7 +74,7 @@ I enjoy solving real-world engineering problems, building reliable systems, and 
 ## 📈 Professional Experience
 
 ### **Java Full Stack Developer** @ *Publix Super Markets*  
-📅 Nov 2024 – Present | Lakeland, FL  
+📅 July 2025 – Present | Lakeland, FL  
 - Building Spring Boot microservices for inventory, pricing, and store operations.
 - Developing internal web applications using React, Angular, and Next.js.
 - Designing REST APIs consumed by frontend applications and third-party systems.
